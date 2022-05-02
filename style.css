@@ -1,0 +1,44 @@
+/*Selector {
+	   Property: value;
+}*/
+/**{
+	text-align: right;
+}*/
+body{
+background-image: url(finalimg.jpg);
+background-size: cover;
+
+}
+
+
+h2  {
+	color: 8D56E8;
+	text-align: center;
+	border: 5px solid royalblue;
+}
+h2 {
+	color: purple;
+}
+
+p{
+	color: darkblue;
+	text-align: center;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+/*.webtext:first-child{
+	border: 4px dashed green;
+}*/
+.active{
+	color: red;
+}
+#div1{
+	background: lightgreen;
+}
+#div2{
+	background: lavender;
+}

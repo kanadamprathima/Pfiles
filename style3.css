@@ -1,0 +1,25 @@
+body{
+
+	 background-color: lavender;
+	 background-image: url("paper.gif");
+	 background-repeat: no-repeat;
+	 background-attachment: fixed;
+	 background-size: cover;
+}
+h1{
+	border: 10px solid darkred;
+	text-align: center;
+	display: inline-block;
+	padding: 5px 20px;
+	margin:auto;
+}
+.boxmodel{
+	border: 5px solid darkblue;
+	display: inline-block;
+	padding: 5px 20px;
+	margin: 0px 20px;
+}
+p{
+	border: 10px solid lavender;
+	border-radius: 50px;
+}
